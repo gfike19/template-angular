@@ -9,5 +9,5 @@ import { CenterBody } from './center-body';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'my-app';
+
 }
