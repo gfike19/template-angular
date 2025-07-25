@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 3. dark mode attempt 2
 4. adding dark mode
 5. auto changelog not worth it, switching to manual -_-
+6. added a component that will be used for the header, rearranged other components into its own file
 
 **7/21/2025**
 ### Added
