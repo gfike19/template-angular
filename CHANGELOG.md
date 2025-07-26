@@ -14,20 +14,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+**7/26/2025**
+### Added
+1. aded intro, and LinkedIn link to header
+
+### Changed
+1. commented out dark mode in centerbody, and switched to regular container
+
 **7/25/2025**
 ### Added
 1. added auto changelog, so far so good
 2. added classes to center body, no discernable change, add auto changelog
-3. dark mode attempt 2
-4. adding dark mode
-5. auto changelog not worth it, switching to manual -_-
-6. added a component that will be used for the header, rearranged other components into its own file
+3. added a component that will be used for the header, rearranged other components into its own file
+4. tried adding dark mode
+5. tried added auto changelog package
+### Removed
+1. auto changelog not worth it, switching to manual -_-
+2. code related to dark mode, not working as intended
 
 **7/21/2025**
 ### Added
 1. formatted resume text in lists, and headers, trying out color scheme in CSS
 2. formatting text on component, testing adding the style tag
-3. remoed testing text, added Bootstrap styling, readded resume text to center body component
-4. removed styling from new component
+### Removed
+1. remoed testing text, added Bootstrap styling, readded resume text to center body component
+2. removed styling from new component
 
 
