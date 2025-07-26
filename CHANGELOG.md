@@ -17,9 +17,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 **7/26/2025**
 ### Added
 1. aded intro, and LinkedIn link to header
+2. dark background, and white text to css for app component
 
 ### Changed
 1. commented out dark mode in centerbody, and switched to regular container
+2. moved elements in app component to div
 
 **7/25/2025**
 ### Added
