@@ -14,6 +14,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0]
+**7/27/2025**
+### Changed
+1. added background color to styles.css, gradient doesn't seem to do anything
+2. changed links to open in new tabs, added link to Angular portion of Arcana
+
 **7/26/2025**
 ### Added
 1. aded intro, and LinkedIn link to header
