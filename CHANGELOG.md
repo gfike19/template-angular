@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+**7/30/2025**
+### Changed
+1. added CardShuffler to project list, fixed spelling errors on components and changelog
+
 ## [1.0.0]
 **7/27/2025**
 ### Changed
@@ -22,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 **7/26/2025**
 ### Added
-1. aded intro, and LinkedIn link to header
+1. added intro, and LinkedIn link to header
 2. dark background, and white text to css for app component
 
 ### Changed
@@ -45,7 +49,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 1. formatted resume text in lists, and headers, trying out color scheme in CSS
 2. formatting text on component, testing adding the style tag
 ### Removed
-1. remoed testing text, added Bootstrap styling, readded resume text to center body component
+1. removed testing text, added Bootstrap styling, readded resume text to center body component
 2. removed styling from new component
 
 
