@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 **7/30/2025**
 ### Changed
 1. added CardShuffler to project list, fixed spelling errors on components and changelog
+2. changed working site link for Arcana to dev
 
 **7/27/2025**
 ### Changed
